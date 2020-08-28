@@ -1,0 +1,2 @@
+# A-Star-Pathfinding-Algorithm
+Using Python and the Pygame Module, I made a visualizer for the A Star Path finding algorithm to where the user can select a start and end node while creating barriers and when the user presses the Space key, the algorithm will find the shortest path from the start to the end node and make a visualization on a grid for the user to see. The program can be reset by pressing the C key, and can be used multiple times.
